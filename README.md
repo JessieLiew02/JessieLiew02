@@ -3,6 +3,7 @@
 
 ## About Me
 🎓 Education: Bachelor of Software Engineering at TARUMT
+
 📧 Email: liwejss@gmail.com
 
 ## Skills
