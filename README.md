@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Jessie Liew!
-🎓 I'm currently pursuing a Bachelor of Software Engineering at Tunku Abdul Rahman University of Management & Technology (TARUMT), where I'm deeply immersed in the world of software engineering. I'm passionate about this field and thoroughly enjoy exploring its various facets.
 
 ## About Me
 🎓 Education: Bachelor of Software Engineering at TARUMT
